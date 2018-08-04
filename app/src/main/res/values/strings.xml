@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cinematics</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_poster_content_description">Movie poster</string>
+    <string name="home_card_language">Language: %1$s</string>
+    <string name="home_card_popularity">Popularity: %1$f</string>
+    <string name="home_card_rating">Rating: %1$f</string>
+    <string name="home_card_release_date">Release date: %1$s</string>
+    <string name="popular_movies">Popular Movies</string>
+
+    <string name="adult">ADULT</string>
+
+</resources>
